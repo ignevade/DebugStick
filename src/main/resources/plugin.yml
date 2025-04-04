@@ -1,0 +1,6 @@
+name: debugStick
+version: '1.0-SNAPSHOT'
+main: me.evade.debugStick.DebugStick
+api-version: '1.21'
+authors: [ Evade ]
+description: Plugin that allows singleplayer players to get a debug stick
