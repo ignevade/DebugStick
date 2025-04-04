@@ -1,7 +1,6 @@
 # DebugStick
  Allows you to craft debug sticks in survival.\
- Recipe:
- ![](https://files.catbox.moe/2tuikq.png)
+ You can craft the debug stick in a Smithing Table using 1 netherite upgrade template, 1 stick and 1 netherite ingot.
  
  # How to install:
  Get the latest build from the Releases Tab\
